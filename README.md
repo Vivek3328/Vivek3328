@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mittal0623@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11-8EVj5tgY8eTqeAZBkKZVZ_TSd2-eGf/view?usp=share_link](https://drive.google.com/file/d/11-8EVj5tgY8eTqeAZBkKZVZ_TSd2-eGf/view?usp=share_link)
+- 📄 Know about my experiences [https://vivekmittal-portfolio.vercel.app/](https://vivekmittal-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
