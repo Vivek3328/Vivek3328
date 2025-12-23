@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Mittal</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek3328&label=Profile%20views&color=0e75b6&style=flat" alt="vivek3328" /> </p>
